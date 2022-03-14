@@ -1,0 +1,7 @@
+node_modules
+
+# Remix builds
+.remix
+
+# arc deploy artifacts
+sam.*

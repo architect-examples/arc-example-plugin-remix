@@ -1,0 +1,21 @@
+{
+  "name": "arc-remix",
+  "version": "0.0.1",
+  "description": "Architect Remix plugin demo",
+  "scripts": {
+    "postinstall": "remix setup node",
+    "start": "npx arc sandbox"
+  },
+  "dependencies": {
+    "@remix-run/react": "^1.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "remix": "^1.2.3"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.1.0",
+    "@architect/plugin-remix": "^0.1.1",
+    "@types/react": "^17.0.40",
+    "@types/react-dom": "^17.0.13"
+  }
+}
