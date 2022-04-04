@@ -1,6 +1,6 @@
 {
   "name": "arc-remix",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Architect Remix plugin demo",
   "scripts": {
     "postinstall": "remix setup node",
