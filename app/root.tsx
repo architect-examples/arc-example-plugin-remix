@@ -1,4 +1,6 @@
 import * as React from "react";
+import type { LinksFunction } from "@remix-run/node";
+
 import {
   Link,
   Links,
@@ -9,8 +11,7 @@ import {
   ScrollRestoration,
   useCatch,
   useLocation,
-} from "remix";
-import type { LinksFunction } from "remix";
+} from "@remix-run/react";
 
 import deleteMeRemixStyles from "~/styles/demos/remix.css";
 import globalStylesUrl from "~/styles/global.css";
