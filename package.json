@@ -1,6 +1,6 @@
 {
   "name": "arc-remix",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Architect Remix plugin demo",
   "scripts": {
     "start": "npx arc sandbox"
